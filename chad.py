@@ -1,5 +1,4 @@
 import pygame
-import os
 from pygame import mixer
 pygame.display.init()
 pygame.font.init()
