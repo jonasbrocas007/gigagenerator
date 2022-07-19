@@ -1,3 +1,2 @@
-# gigagenerator
-Generator of Giga Chad memes
+#gigachad
 Read me, more like read my nuts
