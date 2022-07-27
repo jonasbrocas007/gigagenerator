@@ -1,3 +1,5 @@
+if not __name__ == "__main__":
+    exit("The Giga Chad generator should not be run as a library!")
 import pygame
 from pygame import mixer
 pygame.display.init()
